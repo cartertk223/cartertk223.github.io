@@ -1,14 +1,8 @@
 ## About Me
 
-What's up? hey\|you
+Add a paragraph about myself here.
 
-I am an awesome student at Lehigh, you should hire me!
-
-<!-- Upload your own photo and change the path -->
-
-<p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/donbowen/donbowen.github.io/raw/master/images/logo.png" width="50%">
-</p>
+Add info.
 
 ---
 
@@ -38,9 +32,15 @@ _**[Eventual team project](https://donbowen.github.io/teamproject/)**_
 
 ---
 
-_**[Some personal project](/pdf/sample_presentation.pdf)**_
+_**Internship at Comcast**_
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Info about my time at Comcast.
+
+---
+
+_**Job at DLP Capital**_
+
+Info about upcoming job. 
 
 ---
 

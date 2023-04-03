@@ -1,3 +1,7 @@
+---
+layout: wide_default
+---
+
 # Report File Summary
 
 It is well known that stock prices have a strong correlation with the release of financial results from their respective companies. When firms release financial documents with strong numbers and a positive outlook, stock prices are almost certain to climb while the opposite can be observed when a firm releases financial documents with weak numbers and a bleak outlook. Knowing this, I wanted to examine if a correlation could be observed between the use of certain verbiage in a company's 10k and the returns for that company's stock over two different periods. Using four datasets that had compiled words deemed to either a positive or negative sentiment, I was able to observe how these words may have played a role in how a stock traded in the following days. I also compiled categories of words that I believed could have a positive/negative effect on a stock based on whether these words were surrounded by positive or negative words. The culmination of these efforts resulted in this study which helps to provide insight into the claims presented here. 

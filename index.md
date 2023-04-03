@@ -14,7 +14,7 @@ _**[Natural language processing 10-Ks to identify sentiment](report/report.md)**
 
 Write about the midterm here. 
 
-<img src="images/output_10_0.png?raw=true"/>
+<img src="report/output_10_0.png?raw=true"/>
 
 ---
 

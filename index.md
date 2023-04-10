@@ -24,9 +24,15 @@ Here is an example of some work I did for one of my smaller assignments. In this
 
 ---
 
-_**[Eventual team project](https://donbowen.github.io/teamproject/)**_
+_**[Eventual team project]()**_
 
 Work about my team project will be posted here once it is complete!
+
+---
+
+_**[Presentation Example](/Delta Airlines Stock Pitch (Karinshak).pdf)**_
+
+Here's an example of a small presentation I made by myself! Click on the link above to view it. 
 
 ---
 

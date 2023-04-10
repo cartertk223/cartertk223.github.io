@@ -28,8 +28,6 @@ _**[Eventual team project](https://donbowen.github.io/teamproject/)**_
 
 Work about my team project will be posted here once it is complete!
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
 ---
 
 _**Internship at Comcast**_

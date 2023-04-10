@@ -16,11 +16,11 @@ This link will lead you to my midterm project that I worked on in one of my clas
 
 ---
 
-_**[Regression Practice](Regression_practice)**_
+_**[Regression Practice](regression/regression.md)**_
 
-Here is an example of some work I did for one of my smaller assignments. 
+Here is an example of some work I did for one of my smaller assignments. In this assignment, I had the opportunity to work with real data about house sales and make some observations about what variables played the biggest role in the value of a house. Below is a graph that I created before performing an analysis, so to see how this data can be better interpreted click on the link above to learn more!
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="regression/output_5_0.png?raw=true"/>
 
 ---
 

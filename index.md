@@ -1,6 +1,6 @@
 ## About Me
 
-Hi! My name is Carter Karinshak and welcome to my website! I am currently a senior at Lehigh University studying finance and am graduating in May of 2023! I am from outside of Philadelphia, Pennsylvania, but will be living in Florida following my graduation. 
+Hi! My name is Carter Karinshak and welcome to my website! I am currently a senior at Lehigh University studying finance and am graduating in May of 2023! I am from outside of Philadelphia, Pennsylvania, but will be living in Florida following my graduation. This website is currently still a work in progress, but hopefully the information here will help visitors gain a better understanding of who I am and some of the work I've done!
 
 ---
 
